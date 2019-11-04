@@ -1,0 +1,6 @@
+C:\Users\ander\source\repos\BDProjeto\BDPorjeto.Repositorio\bin\Debug\BDPorjeto.Repositorio.dll
+C:\Users\ander\source\repos\BDProjeto\BDPorjeto.Repositorio\bin\Debug\BDPorjeto.Repositorio.pdb
+C:\Users\ander\source\repos\BDProjeto\BDPorjeto.Repositorio\obj\Debug\BDPorjeto.Repositorio.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\BDProjeto\BDPorjeto.Repositorio\obj\Debug\BDPorjeto.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\BDProjeto\BDPorjeto.Repositorio\obj\Debug\BDPorjeto.Repositorio.dll
+C:\Users\ander\source\repos\BDProjeto\BDPorjeto.Repositorio\obj\Debug\BDPorjeto.Repositorio.pdb

@@ -1,0 +1,14 @@
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll.config
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.pdb
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.dominio.dll
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.dominio.pdb
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csproj.CopyComplete
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.dll
+C:\Users\ander\source\repos\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.pdb
